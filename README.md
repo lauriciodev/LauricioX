@@ -5,6 +5,11 @@
 - 🔭 Atalmente criando pequenos projetos
 - 🌱 Estudando front-end
 - 📫 <a href="https://br.linkedin.com/in/lauricio-de-souza-776b04215">Entrar em Contato</a>
+- 
+-  ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/LauricioX/count.svg" />
+ </p>
 
  <div>
       <a href="https://github.com/LauricioX">
