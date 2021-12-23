@@ -18,6 +18,13 @@
    <img alingn="center" width="300" src="https://profile-counter.glitch.me/LauricioX/count.svg" />
  </p>
 
+
+
+<p align="left">
+  <a href="https://discord.com/channels/856733788717711361/856734060868927508" alt="Discord">
+  <img src="https://cincydiscord.com/wp-content/uploads/2019/02/CINCYDISCORDJOIN.png"/></a>
+</p>
+
  <div>
       <a href="https://github.com/LauricioX">
       <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
