@@ -1,5 +1,5 @@
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://64.media.tumblr.com/058bedd7c92dffd6ca62364852ae07e6/52326f2c5494f9b0-3f/s1280x1920/14b318c10711e449a0d85f8ad9fda772bf035fff.gifv)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)
 
 
 
