@@ -2,6 +2,7 @@
 # hello, i'm lauricio👋
 
 - welcome to my profile
+
 <div>
  <a href="https://github.com/LauricioX"></a>
       <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
