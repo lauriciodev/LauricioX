@@ -10,7 +10,7 @@
     
 
 
-## what I can say about myself is that I am thirsty for knowledge!
+## Codando pra viver e vivendo para codar
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.imgur.com/bPHcsTs.gif)
 
@@ -43,7 +43,7 @@
 
 </div>
 
-## development tools 
+## Ferramentas
 
 
 <div style="display:flex; align-items:center; justify-content:center; gap:10; margin:30px 0">
