@@ -1,8 +1,7 @@
 
-# hello, i'm lauricio👋
+# Olá Amigo(a) Sou Lauricio 👋
 
-- welcome to my profile
-
+- Seja Bem Vindo
 <div>
  <a href="https://github.com/LauricioX"></a>
       <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -17,7 +16,7 @@
 
 
 
-## my experiences 
+## Minhas Experiencias
 
 
 
@@ -75,27 +74,20 @@
 
 </div>
 
-## Studying tirelessly 
+## Estudando Incansavelmente
 
 
 <div style="display:flex; align-items:center; justify-content:center; gap:10; margin:30px 0">
  <br>
 
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original-wordmark.svg">
-<img align="center" alt="Rafa-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
+
 <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg">
  
   ##  <br>
 
 
 </div>
-
-
-
--  # total visits :detective: <br>
- <p align="center"> 
-   <img alingn="center" width="300" src="https://profile-counter.glitch.me/LauricioX/count.svg" />
- </p>
 
 
 
@@ -107,5 +99,5 @@
   <a href="https://br.linkedin.com/in/lauricio-de-souza-776b04215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Snake animation](https://github.com/LauricioX/LauricioX/blob/output/github-contribution-grid-snake.svg)
+
 
