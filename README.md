@@ -87,7 +87,7 @@
 
 
 </div>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorlpgazolli&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=LauricioX&theme=dark" width="45%" >
 
 
 <div style="display:flex; align-items:center; justify-content:center; gap:10; margin:30px 0">
