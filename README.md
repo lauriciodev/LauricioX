@@ -87,7 +87,7 @@
 
 
 </div>
-
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorlpgazolli&theme=dark" width="45%" >
 
 
 <div style="display:flex; align-items:center; justify-content:center; gap:10; margin:30px 0">
@@ -98,7 +98,7 @@
   <a href="https://br.linkedin.com/in/lauricio-de-souza-776b04215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
 
 <!--       <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
  
