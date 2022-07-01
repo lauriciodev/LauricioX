@@ -105,5 +105,7 @@
  
 <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauricioX&layout=compact&langs_count=7&theme=algolia"/> 
 
+ ![Snake animation](https://github.com/LauricioX/LauricioX/blob/output/github-contribution-grid-snake.svg)
+
 
 
