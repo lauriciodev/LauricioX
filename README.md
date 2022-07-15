@@ -58,7 +58,6 @@
 
 ## Ferramentas
 
-
 <div style="display:flex; align-items:center; justify-content:center; gap:10; margin:30px 0">
  <br>
 
