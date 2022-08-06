@@ -6,7 +6,7 @@
 <a href="https://github.com/LauricioX"></a>
 
  </div>
-    
+
 
 
 ## Codando pra viver e vivendo para codar
@@ -51,7 +51,6 @@
  ##  <br>
  
  
-
 
 
 
