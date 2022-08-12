@@ -13,11 +13,12 @@
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.imgur.com/bPHcsTs.gif)
 
+ <img height="130em" width="300" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+ 
+<img height="130em"  width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauricioX&layout=compact&langs_count=7&theme=algolia"/>
 
 
 ## Minhas Experiencias
-
-
 
 <div style="display:flex; align-items:center; justify-content:center; gap:10; margin:30px 0">
  <br>
@@ -49,6 +50,10 @@
 <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
  ##  <br>
+ 
+ 
+
+
  
  
 
@@ -105,8 +110,7 @@
 
 </div>
 
-
-
+ 
 <div style="display:flex; align-items:center; justify-content:center; gap:10; margin:30px 0">
   
    
@@ -117,9 +121,8 @@
 
 
 
- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
- 
-<img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauricioX&layout=compact&langs_count=7&theme=algolia"/> 
+
+
 
 
 
