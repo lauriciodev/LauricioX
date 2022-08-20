@@ -3,6 +3,7 @@
 
 
 # Olá Amigo(a) Sou Lauricio 👋
+## seja bem-vindo !
 
  
 
