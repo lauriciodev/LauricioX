@@ -15,7 +15,7 @@
 
  </div>
 
-## Codando pra viver e vivendo para codar
+## se você chegou até aqui, considere curtir todas as minhas fotos no instagram e me seguir
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
@@ -27,7 +27,7 @@
 
  
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 
 
