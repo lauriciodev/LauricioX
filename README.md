@@ -18,9 +18,9 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.imgur.com/bPHcsTs.gif)
 
 <div>
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
  
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauricioX&layout=compact&langs_count=7&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauricioX&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ## Minhas Experiencias
