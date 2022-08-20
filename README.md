@@ -24,6 +24,12 @@
 </div>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,styledcomponents,gitlab,sass,git,vue,nodejs,mysql,vscode,javascript,css,github,wordpress,html,react,jeste" />
+  </a>
+</p>
+
 
  
 
