@@ -16,4 +16,5 @@ Gráfico de Contribuição da Levy Cotech" src="https://activity-graph.herokuapp
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauricioX&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
  </div>
 
+
 -->
