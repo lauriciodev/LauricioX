@@ -250,7 +250,7 @@
   <!-- Hi, I'mlauricio -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="270" height="42" rx="18.0355" />
-    <text x="30" y="27">Olá, Sou Lauricio De Souza</text>
+    <text x="10" y="27">Olá, Sou Lauricio De Souza</text>
   </g>
 
   <!-- typing 2 -->
