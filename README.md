@@ -1,9 +1,10 @@
 
-![](https://github.com/LauricioX/LauricioX/blob/main/chat.svg)
 
+[![](https://github.com/LauricioX/LauricioX/blob/main/chat.svg)](https://lauricioweb.xyz/)
 
 
 <!--
+![](https://github.com/LauricioX/LauricioX/blob/main/chat.svg)
 
 <div>
 
