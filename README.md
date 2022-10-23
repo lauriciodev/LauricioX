@@ -15,6 +15,4 @@ Gráfico de Contribuição da Levy Cotech" src="https://activity-graph.herokuapp
 
 <!--
 [![](https://github.com/LauricioX/LauricioX/blob/main/chat.svg)](https://lauricioweb.xyz/)
-
-
 -->
