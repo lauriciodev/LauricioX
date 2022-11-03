@@ -2,7 +2,6 @@
 
 <div>
 
-
 <a href="https://github.com/LauriciX/github-readme-activity-graph"><img alt="
 Gráfico de Contribuição da Levy Cotech" src="https://activity-graph.herokuapp.com/graph?username=LauricioX&bg_color=0d1117&color=58a6ff&line=56d364&point=FFFFFF&hide_border=false" />
 
