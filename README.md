@@ -1,6 +1,6 @@
  
 
-  <img height="280em" src="https://piskel-imgstore-b.appspot.com/img/bc77670a-79bf-11ed-a073-4501edeea6a8.gif"/> 
+  <img height="280em" src="https://piskel-imgstore-b.appspot.com/img/55c577d9-79c0-11ed-a218-4501edeea6a8.gif"/> 
   <!--
 pl
  <div styles="display:flex; ">
